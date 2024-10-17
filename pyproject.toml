@@ -9,7 +9,5 @@ description = "A description of your project."
 authors = [
     {name = "Your Name", email = "your@email.com"},
 ]
-dependencies = [
-]
 readme = "README.md"
 license = {text = "MIT"}
