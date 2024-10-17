@@ -10,7 +10,6 @@ authors = [
     {name = "Your Name", email = "your@email.com"},
 ]
 dependencies = [
-    "numpy",
 ]
 readme = "README.md"
 license = {text = "MIT"}
