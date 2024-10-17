@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "classfy"
+version = "0.1.0"
+description = "A description of your project."
+authors = [
+    {name = "Your Name", email = "your@email.com"},
+]
+dependencies = [
+    "numpy",
+    "opencv-python",
+]
+readme = "README.md"
+license = {text = "MIT"}
